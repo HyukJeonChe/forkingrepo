@@ -17,7 +17,7 @@ library(wordcloud)
 library(RColorBrewer)
 library(rvest)
 ```
-# This is my mid-term project submitted in the Canvas.
+
 
 1)  U <- c(“Maine” , “Texas”, “Delaware”, “Oregon”, “Utah”, “Vermont”, “Ohio”)
 a)  Is U an atomic vector or a list ?
